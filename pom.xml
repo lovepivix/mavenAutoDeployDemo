@@ -103,4 +103,5 @@
             <url>http://39.99.255.113:8081/repository/liangchen-snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
+    
 </project>
